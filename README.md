@@ -1,6 +1,6 @@
 ## 조용훈의 깃허브 입니다
 
-![깃허브사진.jpg](깃허브사진.jpg){: width="500%" height="500%"}
+![깃허브사진.jpg](깃허브사진.jpg){: width="300" height="300"){: .center}
 
 <!--
 Here are some ideas to get you started:
