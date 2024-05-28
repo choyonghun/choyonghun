@@ -1,10 +1,5 @@
 ## 조용훈의 깃허브 입니다
 
-
-<!--![깃허브사진](https://github.com/choyonghun/choyonghun/assets/43197549/9614b553-d0e2-42b2-bef4-a850f7845349)
-
-**choyonghun/choyonghun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
