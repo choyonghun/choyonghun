@@ -17,7 +17,6 @@
 ![thymeleaf](https://img.shields.io/badge/thymeleaf-239120?&style=for-the-badge&logo=thymeleaf&logoColor=#005F0F)
 
 ![github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white
 
 
 
