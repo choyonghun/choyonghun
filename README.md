@@ -4,7 +4,7 @@
   
 ####  :wave: Welcome my github profile !
 
-![깃허브사진.jpg](깃허브사진.jpg)
+<img src="깃허브사진.jpg" alt="깃허브사진" width="300" height="400">
 
   
  <br/>
